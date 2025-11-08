@@ -671,7 +671,7 @@ const styles = StyleSheet.create({
     paddingBottom: spacing.md,
   },
   greeting: {
-    fontSize: fs(26),
+    fontSize: fs(13),
     fontWeight: 'bold',
     color: '#ffffff',
     marginBottom: spacing.xs / 2,
